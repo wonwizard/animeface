@@ -30,7 +30,7 @@ deep models for anime images.
     [paper](https://arxiv.org/abs/1610.09585)
 - big GAN (BigGAN).  1809
     [paper](https://arxiv.org/abs/1809.11096) | [code](https://github.com/ajbrock/BigGAN-PyTorch)
-- conditional GAN (cGAN).  
+- conditional GAN (cGAN).  1411
     [paper](https://arxiv.org/abs/1411.1784)
 - deep convolutional GAN (DCGAN).  1511
     [paper](https://arxiv.org/abs/1511.06434)
